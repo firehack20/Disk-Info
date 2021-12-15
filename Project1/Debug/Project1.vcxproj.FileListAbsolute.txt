@@ -1,0 +1,7 @@
+E:\DA_HDH\Project1\Debug\Project1.vcxproj.AssemblyReference.cache
+E:\DA_HDH\Project1\Debug\Project1.MyForm.resources
+E:\DA_HDH\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+E:\DA_HDH\Project1\Debug\Project1.exe
+E:\DA_HDH\Project1\Debug\Project1.PageHard.resources
+E:\DA_HDH\Project1\Debug\Project1.PageHome.resources
+E:\DA_HDH\Project1\Debug\Project1.PageLogical.resources
